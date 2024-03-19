@@ -40,3 +40,22 @@ main {
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+/* CSS MAIN - LIST */
+
+ul, ol {
+    list-style: none;
+}
+
+.verde {
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+    
+}
+
+.rosso {
+    color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+}
