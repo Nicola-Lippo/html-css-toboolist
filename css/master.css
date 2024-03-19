@@ -10,8 +10,15 @@
     height: 80px;
 }
 
-h1 {
+.logo {
+    margin: 10px 0 10px 25px;
+    vertical-align: middle;
+    
+}
+
+.logotext{
     display: inline-block;
+    vertical-align: middle;
 }
 
 
