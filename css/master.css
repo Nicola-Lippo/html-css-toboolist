@@ -6,9 +6,11 @@
 
 /* CSS HEADER */
 
-.container1 {
-    height: 80px;
+header {
+    margin-bottom: 20px;
+    background-color: white;
 }
+
 
 .logo {
     margin: 10px 0 10px 25px;
@@ -23,7 +25,7 @@
 
 
 /* CSS MAIN */
-main {
+body {
     background-color: rgb(225, 218, 218);
 }
 
